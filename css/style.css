@@ -1,0 +1,60 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    background-color: #7251B5;
+}
+
+h1, h2, h3 {
+margin-bottom: 0;
+}
+
+#company-name {
+    font-size: 1.5rem;
+}
+
+header {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
+footer {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
+.wrapper {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+ol {
+    padding: 0;
+    list-style: none;
+}
+
+header a {
+    color: #DEC9E9;
+    text-decoration: none;
+}
+
+#intro {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
+.project {
+    width: 150px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    margin: 1em;
+}
+
+li:nth-child(even) {
+    color: #dc33dc;
+}
+
+.first {
+    width: 100%;
+}
